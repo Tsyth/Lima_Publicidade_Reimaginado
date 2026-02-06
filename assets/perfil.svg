@@ -1,0 +1,11 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="30" fill="url(#personGradient1)"/>
+  <circle cx="30" cy="25" r="12" fill="rgba(255,255,255,0.3)"/>
+  <path d="M15 45 Q30 40 45 45" stroke="rgba(255,255,255,0.3)" stroke-width="3" fill="none"/>
+  <defs>
+    <linearGradient id="personGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+  </defs>
+</svg>

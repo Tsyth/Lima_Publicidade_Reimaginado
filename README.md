@@ -1,2 +1,2 @@
-# Lima_Publicidade_Reimaginado
+# Lima Publicidade Reimaginado
 Projeto Interdisciplinar - Dom Helder
